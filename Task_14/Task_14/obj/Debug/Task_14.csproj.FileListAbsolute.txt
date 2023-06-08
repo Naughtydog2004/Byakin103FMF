@@ -1,0 +1,6 @@
+C:\Users\Админ\Desktop\Языки и методы программирования\Task_14\Task_14\bin\Debug\Task_14.exe.config
+C:\Users\Админ\Desktop\Языки и методы программирования\Task_14\Task_14\bin\Debug\Task_14.exe
+C:\Users\Админ\Desktop\Языки и методы программирования\Task_14\Task_14\bin\Debug\Task_14.pdb
+C:\Users\Админ\Desktop\Языки и методы программирования\Task_14\Task_14\obj\Debug\Task_14.csprojResolveAssemblyReference.cache
+C:\Users\Админ\Desktop\Языки и методы программирования\Task_14\Task_14\obj\Debug\Task_14.exe
+C:\Users\Админ\Desktop\Языки и методы программирования\Task_14\Task_14\obj\Debug\Task_14.pdb
