@@ -1,0 +1,6 @@
+C:\Users\Админ\Desktop\Языки и методы программирования\Task_20\Task_20\bin\Debug\Task_20.exe.config
+C:\Users\Админ\Desktop\Языки и методы программирования\Task_20\Task_20\bin\Debug\Task_20.exe
+C:\Users\Админ\Desktop\Языки и методы программирования\Task_20\Task_20\bin\Debug\Task_20.pdb
+C:\Users\Админ\Desktop\Языки и методы программирования\Task_20\Task_20\obj\Debug\Task_20.exe
+C:\Users\Админ\Desktop\Языки и методы программирования\Task_20\Task_20\obj\Debug\Task_20.pdb
+C:\Users\Админ\Desktop\Языки и методы программирования\Task_20\Task_20\obj\Debug\Task_20.csprojResolveAssemblyReference.cache

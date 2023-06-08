@@ -1,0 +1,5 @@
+C:\Users\Админ\Desktop\Языки и методы программирования\Task_18\Task_18\bin\Debug\Task_18.exe.config
+C:\Users\Админ\Desktop\Языки и методы программирования\Task_18\Task_18\bin\Debug\Task_18.exe
+C:\Users\Админ\Desktop\Языки и методы программирования\Task_18\Task_18\bin\Debug\Task_18.pdb
+C:\Users\Админ\Desktop\Языки и методы программирования\Task_18\Task_18\obj\Debug\Task_18.exe
+C:\Users\Админ\Desktop\Языки и методы программирования\Task_18\Task_18\obj\Debug\Task_18.pdb
